@@ -2,7 +2,7 @@
 Basic Vulkan starter app
 
 ## Prerequisites
-https://vulkan-tutorial.com/Development_environment#page_Linux
+Follow dev environment instructions at https://vulkan-tutorial.com/Development_environment#page_Linux
 
 ### Ubuntu
 #### Build requirements
