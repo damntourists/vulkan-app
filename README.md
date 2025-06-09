@@ -4,8 +4,8 @@ Basic Vulkan starter app
 ## Prerequisites
 Follow dev environment instructions at https://vulkan-tutorial.com/Development_environment#page_Linux
 
-### Ubuntu
-#### Build requirements
+### Ubuntu build requirements
+#### System
 ```shell
 sudo apt install vulkan-tools libvulkan-dev install vulkan-validationlayers-dev spirv-tools libglfw3-dev libglm-dev
 ```
